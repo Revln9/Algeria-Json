@@ -1,2 +1,2 @@
 # Algeria-Json
-Json array of all algerian cities including provinces
+Json array of all algerian wilayas (states) including provinces
